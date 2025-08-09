@@ -5,6 +5,10 @@ import collections
 import string
 
 script_name = sys.argv[0]
+import os
+import sys
+import collections
+import string
 
 res = {
     "total_lines":"",
